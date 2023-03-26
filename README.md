@@ -1,6 +1,6 @@
 # pubchem-demo-acs-spring-2023
 
-This repository was created for a presentation at the American Chemical Society (ACS) Spring 2023 National Meeting in Indianapolis, Inidiana. The presentation demonstrates how to programmatically access PubChem data through its programmatic access interfaces, including PUG-REST, PUG-View, and Entrez-Utilities.  This repository contains the following items:
+This repository was created for a presentation at the American Chemical Society (ACS) Spring 2023 National Meeting in Indianapolis, Indiana. The presentation demonstrates how to programmatically access PubChem data through its programmatic access interfaces, including PUG-REST, PUG-View, and Entrez-Utilities.  This repository contains the following items:
 
 - **ACS-2023-03-demon.ipynb** :   
       a jupyter notebook that demonstrates how to access PubChem programmatically.  
